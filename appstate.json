@@ -1,7 +1,32 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+    {
+        "name": "_ga_B9CY1C9VBC",
+        "value": "GS2.1.s1761016566$o1$g1$t1761016582$j44$l0$h0",
+        "domain": ".mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": null,
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1795576582.299,
+        "storeId": null
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.1.1591165665.1761016567",
+        "domain": ".mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": null,
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1795576566.855,
+        "storeId": null
+    }
+]
